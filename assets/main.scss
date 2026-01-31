@@ -15,3 +15,10 @@ body {
     border-radius: 12px;
     padding: 2rem;
 }
+
+.site-header,
+.site-footer {
+  background: rgb(255, 255, 255);
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
